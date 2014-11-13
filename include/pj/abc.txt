@@ -1,0 +1,4 @@
+math.h:    pj_bzero(stat, sizeof(pj_math_stat));
+pool_i.h:	pj_bzero(buf, size * count);
+string.h:PJ_INLINE(void) pj_bzero(void *dst, pj_size_t size)
+string.h:    bzero(dst, size);

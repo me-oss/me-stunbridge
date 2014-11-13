@@ -1,0 +1,2 @@
+#DEBUG_HOST = pcd
+#DEBUG_MEM = DMALLOC
